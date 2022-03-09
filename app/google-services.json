@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "5981434969",
+    "project_id": "crown-blossom",
+    "storage_bucket": "crown-blossom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5981434969:android:d95f7c662f31af8d18ad48",
+        "android_client_info": {
+          "package_name": "com.opticulturex.crownblossom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5981434969-h5vcm0nn9ec2a2u2dfugqjv402rvkea8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyaP8i8Bi3oXKRiP40yTYhCAlE11x7nJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5981434969-h5vcm0nn9ec2a2u2dfugqjv402rvkea8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
